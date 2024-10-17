@@ -1402,11 +1402,11 @@ Faça login para acessar o modo multijogador. Você poderá:
 - Jogar e se comunicar com outros jogadores de todo o mundo
 - Compartilhar seu progresso com outros
 - Criar e decorar um perfil
-- Comprar plasma na loja
-- Enviar skins criadas pelos usuários
 
 Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
-    </string>
+</string>
+<string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
+    <string name="pm">PM</string>
     <string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
     <string name="pm">PRIV.</string>
     <string name="You_are_already_friends_">Você já tem esta pessoa adicionada.</string>
